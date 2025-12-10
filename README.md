@@ -160,13 +160,8 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/monte1s"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=monte1s&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
-<br />
-
-> GitHub 3D Contributors
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br />
 
